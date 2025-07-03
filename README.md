@@ -22,6 +22,7 @@ This is the **backend smart contract repository** for the [🌉 Cross-Chain Mess
 
 ## 📁 Project Structure
 
+```
 freeTestEthers/
 ├── contracts/
 │ ├── MessageSender.sol
@@ -34,6 +35,8 @@ freeTestEthers/
 ├── package.json
 └── README.md
 
+```
+
 ## 🔧 Environment Setup
 
 ### Prerequisites
@@ -45,9 +48,9 @@ freeTestEthers/
 
 ## 🛠️ Installation
 
-git clone https://github.com/Anshika31sharma/BackendMessaging
-cd BackendMessaging
-npm install
+- git clone https://github.com/Anshika31sharma/BackendMessaging
+- cd BackendMessaging
+- npm install
 
 ## 🧪 Local Development (Localhost + Hardhat)
 
